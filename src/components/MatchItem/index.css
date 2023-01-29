@@ -1,0 +1,12 @@
+.button-image {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.image-item {
+  height: 130px;
+  width: 130px;
+  border-radius: 6px;
+}
